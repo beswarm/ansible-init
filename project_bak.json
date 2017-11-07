@@ -1,0 +1,6 @@
+{
+    "roles": [
+        "vm_init"
+    ],
+    "project_dir": "/vagrant/spawn/vm_init"
+}
